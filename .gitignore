@@ -1,5 +1,5 @@
 #node_modules/
 #first letter Z
 z.*
-*.suo
-/artifacts
+*.env
+*.yaml
